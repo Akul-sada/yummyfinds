@@ -1,5 +1,6 @@
-import Image from 'next/image'
+import Image from 'next/image';
 
+// https://dev.to/britotiagos/how-add-style-components-to-nextjs-and-start-using-it-4kdf
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
